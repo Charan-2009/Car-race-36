@@ -1,1 +1,2 @@
-# Car-race-36
+# synchronousBallMovement
+Ball moving synchronously
